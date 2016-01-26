@@ -1,3 +1,1 @@
-Didn't get what you want?
-
-Sorry, too popular.
+https://github.com/mbostock/crom/issues/8
